@@ -1,0 +1,7 @@
+---
+box: "tknerr/ubuntu1604-desktop"
+exp_vm:
+  host_name: exp_vm
+  memory: 6144
+  cpus: 2
+  provider_ip: "203.0.113.127"
