@@ -4,7 +4,7 @@ set -xe
 # git clone https://github.com/deepak-dt/vagrant-openstack-helm-contrail -b osh-contrail-ocata
 # git config --global user.email "deepak.dt@gmail.com"; git config --global user.name "Deepak Tiwari"
 
-proxy_url="***REMOVED***"
+proxy_url=""
 
 export http_proxy=${proxy_url}
 export HTTP_PROXY=${proxy_url}
